@@ -1,0 +1,8 @@
+model,cases,reports_with_any_positive,any_positive_proxy,source
+A,15,8,0.533,S3
+B,15,9,0.600,S3
+C1,15,9,0.600,S3
+C2,15,6,0.400,S3
+C3,15,13,0.867,S3
+C4,15,11,0.733,S3
+C3-filtered,15,10,0.667,S4

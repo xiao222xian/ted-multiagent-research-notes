@@ -1,0 +1,8 @@
+model,keyword_count_proxy,state_micro_f1,report_micro_f1,disagreement,source
+A,0.867,,0.462,,S2
+B,0.896,0.133,0.706,0.477,S1
+C1-strict,0.894,0.778,0.836,0.205,S1
+C2,0.908,0.765,0.607,0.273,S1
+C3,1.000,0.776,0.847,0.227,S1
+C3-filtered,,0.776,0.776,0.000,S4
+C4,0.888,0.766,0.667,0.341,S1
